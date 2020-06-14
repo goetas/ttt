@@ -1,0 +1,13 @@
+{
+    "name": "goetas/ttt",
+    "type": "project",
+    "require": {
+        "masterminds/html5": "dev-master"
+    },
+    "authors": [
+        {
+            "name": "Asmir Mustafic",
+            "email": "goetas@gmail.com"
+        }
+    ]
+}
